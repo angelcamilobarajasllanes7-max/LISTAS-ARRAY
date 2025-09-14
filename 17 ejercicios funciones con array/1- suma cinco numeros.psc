@@ -27,7 +27,7 @@ Funcion menu <- tomar_menu
 	Escribir "3- mostrar los datos ";
 	Escribir "4- salir del programa";
 	
-	Escribir "ingrese un numero del menu dependiendo de lo queras hacer";
+	Escribir "ingrese un numero del menu dependiendo de lo quieras hacer";
 	leer menu;
 Fin Funcion
 
